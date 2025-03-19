@@ -40,7 +40,7 @@ This project is an e-commerce website developed through a series of milestones, 
 - Initialized GitHub repository for version control.  
 
 ---
-
+ 
 ### Milestone 2: Frontend & Backend Initialization  
 *✅ Goals:*  
 1. *Project Folder Structure:* Organized files into separate frontend and backend directories.  
@@ -484,4 +484,3 @@ By completing this milestone, we learned:
    
 5. Open [http://localhost:3000/](http://localhost:3000/) in your browser.  
 
----
