@@ -403,7 +403,7 @@ By completing this milestone, we learned:
   - Managed payment responses securely and displayed real-time feedback.
 - **Completion:** Feature completed and milestone submitted.
 
-Milestone 31: Global State Management with Redux
+### **Milestone 31: Global State Management with Redux**
 ✅ Goals:
 1️⃣ Backend - Redux Store Setup
 Created a Redux store to manage global state for the application.
@@ -423,7 +423,7 @@ Allowed for easy management and updating of the email state via Redux actions an
 ✅ Shared the repository link for submission.
 Good luck, Kalvians! ✨
 
-Milestone 32: Storing and Accessing Mail in Global State with Redux
+### **Milestone 32: Storing and Accessing Mail in Global State with Redux**
 ✅ Goals:
 1️⃣ Backend - Redux Integration with Mail
 Updated the Redux store to store the user's mail in the global state.
@@ -440,7 +440,7 @@ Ensured the application responds to the state updates in a seamless manner.
 ✅ Shared the repository link for submission.
 Good luck, Kalvians! ✨
 
-Milestone 33: Creating and Storing JWT Token in Cookies
+### **Milestone 33: Creating and Storing JWT Token in Cookies**
 ✅ Goals:
 1️⃣ Backend - JWT Token Creation
 Installed the jsonwebtoken package using:
@@ -458,7 +458,7 @@ Implemented the cookie-based token storage to manage user sessions.
 ✅ Shared the repository link for submission.
 Good luck, Kalvians! ✨
 
-Milestone 34: Validating JWT Token Stored in Cookies
+### **Milestone 34: Validating JWT Token Stored in Cookies**
 ✅ Goals:
 1️⃣ Backend - JWT Token Validation
 Extracted the JWT token from the browser’s cookie and sent it to the server.
@@ -476,7 +476,7 @@ Implemented the necessary steps to protect routes using JWT token validation on 
 ✅ Shared the repository link for submission.
 Good luck, Kalvians! ✨
 
-Milestone 35: Deploying Your Project
+### **Milestone 35: Deploying Your Project**
 ✅ Goals:
 1️⃣ Deploying the Backend
 Deployed the backend on a cloud service (e.g., Heroku, AWS, DigitalOcean, etc.).
