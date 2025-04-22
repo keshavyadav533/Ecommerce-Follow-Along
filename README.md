@@ -425,7 +425,7 @@ Good luck, Kalvians! ✨
 
 ### **Milestone 32: Storing and Accessing Mail in Global State with Redux**
 ✅ Goals:
--**1️⃣ Backend - Redux Integration with Mail**
+- **1️⃣ Backend - Redux Integration with Mail**
 -Updated the Redux store to store the user's mail in the global state.
 -Used the dispatch method to store the email in the global state upon login.
 -**2️⃣ Frontend - Accessing Mail Across Pages**
@@ -442,7 +442,7 @@ Good luck, Kalvians! ✨
 
 ### **Milestone 33: Creating and Storing JWT Token in Cookies**
 ✅ Goals:
--**1️⃣ Backend - JWT Token Creation**
+- **1️⃣ Backend - JWT Token Creation**
 -Installed the jsonwebtoken package using:
 -npm install jsonwebtoken
 -Used the sign method to create a JWT token, including the user's email and ID.
@@ -460,7 +460,7 @@ Good luck, Kalvians! ✨
 
 ### **Milestone 34: Validating JWT Token Stored in Cookies**
 ✅ Goals:
--**1️⃣ Backend - JWT Token Validation**
+- **1️⃣ Backend - JWT Token Validation**
 -Extracted the JWT token from the browser’s cookie and sent it to the server.
 -Created a middleware function on the backend to validate the JWT token received from the client.
 -Ensured the server checks if the token is valid before granting access to protected routes.
@@ -475,10 +475,10 @@ Good luck, Kalvians! ✨
 -✅ Updated the README.md file with Milestone 34 details.
 -✅ Shared the repository link for submission.
 -Good luck, Kalvians! ✨
---
+
 ### **Milestone 35: Deploying Your Project**
 ✅ Goals:
--**1️⃣ Deploying the Backend**
+- **1️⃣ Deploying the Backend**
 -Deployed the backend on a cloud service (e.g., Heroku, AWS, DigitalOcean, etc.).
 -Retrieved the backend deployment link and ensured it was accessible.
 -**2️⃣ Deploying the Frontend**
